@@ -12,7 +12,7 @@ make sync   # symlink config + plugins into ~/.claude/
 
 ### Config
 
-- **statusline-command.sh** — Status line showing model name, context window usage (color-coded), and session cost
+- ...
 
 ### Plugins
 

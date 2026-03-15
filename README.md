@@ -1,4 +1,4 @@
-# agentic-plugins
+# agentic
 
 Personal Claude Code plugins, config, and scripts.
 
